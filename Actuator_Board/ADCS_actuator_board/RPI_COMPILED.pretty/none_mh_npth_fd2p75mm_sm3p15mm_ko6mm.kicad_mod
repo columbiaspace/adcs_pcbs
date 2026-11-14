@@ -1,0 +1,288 @@
+(footprint "none_mh_npth_fd2p75mm_sm3p15mm_ko6mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f71f07d8-c461-4081-9ccd-98ced0c883be")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Value" "NPTH FD2.75mm SM3.15mm KO6mm"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca004f14-32c2-468c-b058-a11464d17632")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" "file:///C:\\rpi-pdb\\parts\\Mechanical\\Mounting_Holes\\NONE_MH_NPTH_FD2P75MM_SM3P15MM_KO6MM\\datasheets"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e10923d2-c665-467b-b75c-44f45496e361")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole, NPTH, Finished Dia=2.75mm, Soldermask Dia=3.15mm, Keep Out Dia=6mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e227eca-b161-42ea-af9d-8ca1942792ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "part_uid" "RP-01HF5R-LCTEJS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3c74ad2f-764d-42df-9181-c6fcd1ad2aa9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "status" "OK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b74e0fd7-fc02-4a9f-9272-06c97f7a4be8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcdf18c1-edc7-4356-9628-1ac0ca51a08d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer_pn" "MH_NPTH_FD2P75MM_SM3P15MM_KO6MM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37d0efab-c146-47d3-afb9-f753bc6310ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2623e463-3d08-482d-98fa-ec520349ed6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging_qty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54eb9735-7b84-4953-a226-5d8a00d62f7a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "lcsc_pn" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6725d980-6309-4998-8e62-9f115a31b49e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "size" "FD2.75mm SM3.15mm KO6mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f80f0084-f4f8-4e7e-b9ff-a5d56939b344")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "RPI_COMPILED:none_mh_npth_fd2p75mm_sm3p15mm_ko6mm")
+	(sheetname "/")
+	(sheetfile "RPI-RP2350B-MINIMAL_R4-S1.kicad_sch")
+	(attr exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "f79a77de-e7d6-49f0-93ce-23044ec0c2cf")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "21cf7c8b-a002-4785-bdd5-1941a2ce390b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.375 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "B.Fab")
+		(uuid "a8e56882-cb3f-4b25-92bf-5f399676e7d6")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "B.Fab")
+		(uuid "10a7b7a4-77b9-4e50-8d0c-6130c40b7db8")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.375 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5213dd31-1cdd-4465-bb17-cae7e9886d47")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.01)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "ae5b1fe2-ca46-4573-a594-83c677ddb069")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "774392a6-d6c0-424e-a997-cabfe5fb667e")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.15 3.15)
+		(drill 2.75)
+		(layers "*.Mask")
+		(uuid "4f417a32-9b6d-45b2-921f-4ac022cf945f")
+	)
+	(zone
+		(layers "F.Cu" "B.Cu")
+		(uuid "3165935c-1965-4e9b-af86-f1b5ffe1b0fb")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(arc
+					(start -3 0)
+					(mid 3 0)
+					(end -3 0)
+				)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

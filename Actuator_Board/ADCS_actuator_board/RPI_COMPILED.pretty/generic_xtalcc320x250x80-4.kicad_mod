@@ -1,0 +1,402 @@
+(footprint "generic_xtalcc320x250x80-4"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 2.2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "55dff275-4ae5-464f-b150-78e95bca8610")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "12MHz"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f0b3d75-ba54-4288-992b-a19e7be95a51")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" "file:///C:\\rpi-pdb\\parts\\Frequency_Timing\\Crystals\\ABRACON_ABM8-272-T3\\datasheets"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36a538ec-94de-4dc9-b2bb-2a33ca8d6eee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "XTAL, SMT, 12 MHz, Fundamental, Ftol=30ppm, Fstab=30ppm, 10pF, 3.2x2.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba1512bd-5fbb-4b0a-aa2e-f8098df5eb70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "part_uid" "RP-01G8X7-GS352B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1edc2814-0ecb-4463-bfe8-fa9528179f59")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "status" "OK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "646429ce-0aa1-4343-b53b-1088d61d35ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer" "Abracon"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70331cb5-6e4a-41be-b7e9-32313595cda7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer_pn" "ABM8-272-T3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f67b4e7c-45b3-4217-89a3-1bc2d1f7d1b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging" "180mm dia. tape & reel"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "78125113-7355-443c-a672-ddbac390ddce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging_qty" "3000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75ade539-4578-45f1-91c0-40b99b3e8f61")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "lcsc_pn" "C20625731"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7cd4e510-2dc6-4a77-a5ab-1faf5d8c8213")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "size" "3.2x2.5x0.8mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c7dfefc8-47e9-452f-82d1-8f04d8bb80d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "frequency" "12MHz"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ac1b5dc-4b5c-406b-bb4c-d53cd97c600b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "tolerance" "30ppm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b4433ef-c587-4e4a-9d47-6f579245cec7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "operating_temp_max" "+85C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "624d4543-2da5-4d9a-a1f9-c45d8388322e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "load_capacitance" "10pF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1819d45b-8c2d-491b-8dc6-a29f286f8fc6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "operating_temp_min" "-40C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40558eb9-f557-4937-bba1-e8131d0163d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "z_height_max" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6e863d5-5922-49ae-9043-d1d6c1e2b9ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "esr" "50R Max"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae7960db-de54-4887-8060-17ecde3e07aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "package" "M3225"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8199043-6cdf-4197-8725-a00e2baf4c51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "z_height_nom" "0.8mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d77fea43-2ba0-4d29-8e52-c174a1b738fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "freq_stability" "30ppm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d69551d-6abe-461d-97d1-f0bf9a19cfdd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "RPI_COMPILED:generic_xtalcc320x250x80-4")
+	(sheetname "/")
+	(sheetfile "RPI-RP2350B-MINIMAL_R4-S1.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -2.2 0.85)
+		(end -2.05 0.85)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "1382dafb-745c-4793-a0a7-1134ad4600ac")
+	)
+	(fp_rect
+		(start -1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9b4022d7-1fc1-4fec-bbbe-654e66e05b39")
+	)
+	(fp_rect
+		(start -1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8761ba38-130b-4695-84cc-c03aa6377297")
+	)
+	(fp_circle
+		(center -1.1 0.85)
+		(end -0.95 0.85)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "16d41eeb-3e8a-4d31-82f9-b28b4a3df5fb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c0a754df-e66a-471a-be04-94481f65c1ef")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 0.85)
+		(size 1.4 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6c34ccab-9610-4233-b228-c4bc89865851")
+	)
+	(pad "2" smd rect
+		(at 1.1 0.85)
+		(size 1.4 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "33f166ce-0d33-4a54-8cd9-a1dd44ef48e3")
+	)
+	(pad "3" smd rect
+		(at 1.1 -0.85)
+		(size 1.4 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "543b86e4-7386-4ab7-bfbc-1f2bca0af476")
+	)
+	(pad "4" smd rect
+		(at -1.1 -0.85)
+		(size 1.4 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "baa43d69-73f6-4c77-a6d2-58f82de38f1b")
+	)
+	(embedded_fonts no)
+	(model "kicad-embed://generic_xtalcc320x250x80-4.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/bobwo/Documents/KiCad/ADCS_actuator_board/3dModels/generic_xtalcc320x250x80-4.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

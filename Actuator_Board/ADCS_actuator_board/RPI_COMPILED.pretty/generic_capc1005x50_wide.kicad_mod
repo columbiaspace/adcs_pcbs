@@ -1,0 +1,380 @@
+(footprint "generic_capc1005x50_wide"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.8 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4a1ec34e-fb7f-476b-b014-2cd24ea6150b")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.125)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "4.7u"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ac61807-ff95-42f2-a88d-021d8aa0063f")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" "file:///C:\\rpi-pdb\\parts\\Capacitors\\MLCC\\M1005\\MURATA_GRM155R60J475ME47D\\datasheets"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24f2b90e-70c7-49c8-b301-d89d18ff0699")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Capacitor, MLCC, 4.7uF, 20%, M1005, 6.3V, X5R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9cf2a854-21bf-41e4-87d8-59b6c509e56e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "package" "M1005"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3181ee8a-1a5b-4c62-8579-a70ebb168f87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "voltage" "6.3V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0111ba0-6846-4a8b-ac5a-d574ea6a7219")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "dielectric" "X5R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "871d3194-2c52-4108-9878-99c92cabc9dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "tolerance" "20%"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67acc58a-f136-46ab-8809-408cebc352de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "part_uid" "RP-019A1P-0C2GHY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d67e44c1-61c3-4b0a-be6c-c440e8a29fe2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "status" "OK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de09e470-9e7a-424b-bc0f-f184d48fe319")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer" "Murata"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6456ae9e-a6bf-4a00-8eee-5b25ef6bea5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "manufacturer_pn" "GRM155R60J475ME47D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "267f9382-6cc7-4677-8d42-64253b41fad1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging" "180mm paper taping"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbb0ee5d-83f5-46a1-9ba9-ffd65b2e52b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "packaging_qty" "10000"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7aa6db8-2638-451b-b006-535ba5c24790")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "lcsc_pn" "C82453"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "768e02da-280d-4ef5-886a-631184e4dde9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "temp_coefficient" "X5R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8c2da62-e46c-4c89-aa8e-2430603b9daf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "operating_temp_max" "+85C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c458e7ed-87ef-4b11-a9a8-429fa442cef0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "operating_temp_min" "-55C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "104f4ab6-1aa9-4466-bcad-f445e86afa34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "material" "Ceramic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6cfad116-a629-41d6-bdc1-4f85abd86400")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "size" "1.0x0.5x0.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "583038d7-6e5f-42f9-aa64-84b01d9eafb6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "capacitance" "4.7u"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "369ce2ca-ee34-4bdb-af9f-dd6e53da97da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "z_height_nom" "0.5mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06d0afeb-4967-4f84-9c9b-3cfaf936f816")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "RPI_COMPILED:generic_capc1005x50 RPI_COMPILED:generic_capc1005x50_wide")
+	(sheetname "/")
+	(sheetfile "RPI-RP2350B-MINIMAL_R4-S1.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -0.5 -0.25)
+		(end 0.5 0.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "08abffd0-16a8-4587-b13b-492ab4a151b8")
+	)
+	(fp_rect
+		(start -0.5 -0.25)
+		(end 0.5 0.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d2daf494-4122-4aee-82cb-ab130c3e6a21")
+	)
+	(fp_rect
+		(start -0.25 -0.25)
+		(end 0.25 0.25)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9470fb21-1e3f-4982-9b34-27f118f45744")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fc473ad4-917a-46e3-aa23-2f650d545b58")
+		(effects
+			(font
+				(size 0.8 0.5)
+				(thickness 0.01)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.515 0)
+		(size 0.47 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(clearance 0.125)
+		(uuid "5a0e5104-12f5-4c07-81d8-97fef30a13e2")
+	)
+	(pad "2" smd rect
+		(at 0.515 0)
+		(size 0.47 0.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "db69dee3-f1eb-431d-9255-cf946d600aea")
+	)
+	(embedded_fonts no)
+	(model "kicad-embed://generic_capc1005x50.step"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/bobwo/Documents/KiCad/ADCS_actuator_board/3dModels/generic_capc1005x50.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
