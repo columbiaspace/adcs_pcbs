@@ -12,9 +12,9 @@ for the ADCS peripheral board.
 | Function | Component | Role |
 | :--- | :--- | :--- |
 | Microcontroller | Raspberry Pi RP2350B | Sensor configuration, data acquisition, and communication with the spacecraft |
-| Sun sensor | BPW34 photodiodes | Light measurements used to estimate the Sun’s direction |
-| IMU | Bosch BMI088 | Three-axis acceleration and angular velocity measurements |
-| GNSS RF front end | MAX2769 — model to be confirmed | GNSS signal reception for subsequent processing by a positioning backend |
+| Sun sensor | BPW34  | Light measurements used to estimate the Sun’s direction |
+| IMU | BMI088 | Three-axis acceleration and angular velocity measurements |
+| GNSS RF front end | MAX2769  | GNSS signal reception for subsequent processing by a positioning backend |
 | Magnetometer | PNI RM3100 | Three-axis measurements of the local magnetic field |
 
 ## Sensor Functions
