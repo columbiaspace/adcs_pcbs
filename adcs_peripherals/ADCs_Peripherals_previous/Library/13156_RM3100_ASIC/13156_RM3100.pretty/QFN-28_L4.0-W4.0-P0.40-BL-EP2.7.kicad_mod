@@ -1,0 +1,99 @@
+(footprint "QFN-28_L4.0-W4.0-P0.40-BL-EP2.7"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8183cb00-170e-4e42-a782-073e86befa4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "QFN-28_L4.0-W4.0-P0.40-BL-EP2.7"
+		(at 0 6 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83eb8bb9-6ec7-4079-bc32-96d01d4254e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd408353-a60f-48c1-bc98-0f748908de3d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5857b9ae-43c6-4e76-8c80-412582578c4f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC Part" "C2932459"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39f608c0-74d7-4ef7-9c24-188a5d9c59ae")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer" "null"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa44e35d-f97b-4f5f-9d61-3e0554fa773e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MPN" "null"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17372bee-7830-4373-9b94-4aff5affb04a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(embedded_fonts no)
+	(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/QFN-28_L4.0-W4.0-P0.40-BL-EP2.7.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

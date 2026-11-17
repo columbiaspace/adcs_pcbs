@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "BPW34") (type "KiCad") (uri "${KIPRJMOD}/Library/BPW34/KiCADv6/BPW34.kicad_sym") (options "") (descr ""))
+	(lib (name "BM02B_GHS_TBT") (type "KiCad") (uri "${KIPRJMOD}/Library/BM02B_GHS_TBT/KiCADv6/BM02B_GHS_TBT.kicad_sym") (options "") (descr ""))
+	(lib (name "MAX2769BETI_V_") (type "KiCad") (uri "${KIPRJMOD}/Library/MAX2769BETI_V_/KiCADv6/MAX2769BETI_V_.kicad_sym") (options "") (descr ""))
+	(lib (name "13156_RM3100") (type "KiCad") (uri "${KIPRJMOD}/Library/13156_RM3100_ASIC/13156_RM3100.kicad_sym") (options "") (descr ""))
+	(lib (name "13104_RM3100_SEN_XY") (type "KiCad") (uri "${KIPRJMOD}/Library/13104_RM3100_SEN_XY/13104_RM3100_SEN_XY.kicad_sym") (options "") (descr ""))
+	(lib (name "13101_RM3100_SEN_Z") (type "KiCad") (uri "${KIPRJMOD}/Library/13101_RM3100_SEN_Z/13101_RM3100_SEN_Z.kicad_sym") (options "") (descr ""))
+	(lib (name "oresat-ics") (type "KiCad") (uri "${KIPRJMOD}/Library/Orion_B16/oresat-ics.kicad_sym") (options "") (descr ""))
+)
